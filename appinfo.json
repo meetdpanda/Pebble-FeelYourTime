@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "Misc": 3
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "dpanda@gmail.com",
+    "longName": "FUTV3",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "FUTV3",
+    "uuid": "019581c2-c632-43ec-a126-6b7a865d6e86",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
